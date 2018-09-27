@@ -12,6 +12,7 @@ public class SupaTest_v01 {
 
 		System.out.println("4");
 		System.out.println("6");
+		System.out.println("7");
 
 
 		System.out.println("1st");
@@ -22,6 +23,7 @@ public class SupaTest_v01 {
 
 		System.out.println("4th");
 		System.out.println("6th");
+		System.out.println("7th");
 
 
 	}
