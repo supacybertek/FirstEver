@@ -23,15 +23,15 @@ public class SupaTest_v01 {
 
 		System.out.println("4th");
 		System.out.println("6th");
-<<<<<<< HEAD
+
 		
 		System.out.println("Fetch2");
-=======
+
 		System.out.println("7th");
 		
 		
 		System.out.println("Master Fetch");
->>>>>>> refs/heads/master
+
 
 	}
 
