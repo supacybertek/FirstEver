@@ -30,8 +30,15 @@ public class SupaTest_v01 {
 		System.out.println("7th");
 		
 		
+
 		System.out.println("Master Fetch");
 		System.out.println("No Fetch2");
+
+		System.out.println("Master Fetch");
+		
+		System.out.println("No Fetch");
+
+
 
 	}
 
