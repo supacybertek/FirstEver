@@ -24,7 +24,9 @@ public class SupaTest_v01 {
 		System.out.println("4th");
 		System.out.println("6th");
 		System.out.println("7th");
-
+		
+		
+		System.out.println("Master Fetch");
 
 	}
 
